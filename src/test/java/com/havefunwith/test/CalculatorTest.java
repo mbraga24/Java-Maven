@@ -13,5 +13,4 @@ public class CalculatorTest {
         var result = underTest.add(number1, number2);
         Assert.assertEquals(30, result);
     }
-
 }

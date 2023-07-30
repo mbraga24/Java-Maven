@@ -1,4 +1,4 @@
-package com.havefunwith.CLI.basics;
+package com.havefunwith.modules.basics;
 import com.havefunwith.modules.email.EmailValidator;
 
 public class EmailValidatorMainClass {

@@ -1,4 +1,4 @@
-package com.havefunwith.CLI.basics;
+package com.havefunwith.modules.basics;
 
 import java.util.Arrays;
 import java.util.Locale;
